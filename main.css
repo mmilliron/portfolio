@@ -9,17 +9,18 @@ font-family: 'Sansita', sans-serif;*/
     box-sizing: border-box;
   }
 
+.technologies {
+  display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
 .social {
   padding: 10px;
   
 }
 
-.technologies {
-     display: flex;
-    flex-direction: row;
-    align-items: center;
-    justify-content: center;
-}
 
   #contactIcons {
     display: flex;
