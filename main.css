@@ -9,6 +9,7 @@ font-family: 'Sansita', sans-serif;*/
     box-sizing: border-box;
   }
 
+
 .technologies {
   display: flex;
     flex-direction: row;
